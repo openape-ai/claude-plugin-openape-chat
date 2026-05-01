@@ -1,0 +1,13 @@
+{
+  "name": "openape-chat",
+  "description": "Bridge a running Claude Code session into chat.openape.ai team rooms. Auto-authenticates with the agent's existing OpenApe auth.json — no extra token wrangling.",
+  "version": "0.1.0",
+  "keywords": [
+    "openape",
+    "chat",
+    "messaging",
+    "channel",
+    "mcp",
+    "ddisa"
+  ]
+}
